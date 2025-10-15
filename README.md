@@ -23,7 +23,7 @@ Setiap kali pengguna menambah atau menghapus buku, `setState()` digunakan untuk 
 
 ## 📱 Tampilan Aplikasi
 ### 1. Halaman Daftar Buku
-![List](assets/screenshots/list.png)
+![List](assets/screenshots/List buku.png)
 
 ### 2. Form Input Buku
 ![Form](assets/screenshots/form.png)
